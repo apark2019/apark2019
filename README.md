@@ -6,7 +6,7 @@
   - [Data Cleaning](https://github.com/apark2019/SQL-Data-Cleaning-Project)
 
 - <b>EXCEL</b>
-  - [Excel Dashboard](https://github.com/apark2019/SQL-Data-Cleaning-Project)
+  - [Excel Dashboard](https://github.com/apark2019/Excel-Dashboard)
   
 <h2> 🤳 Connect with me:</h2>
 
