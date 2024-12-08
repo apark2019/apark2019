@@ -1,5 +1,7 @@
 <h1>Hi, I'm Andrew! </h1>
+I am a first-generation Korean-American graduate of the C.T. Bauer College of Business at the University of Houston, with a degree in Management Information Systems (MIS) in the class of 2024. As a highly motivated individual with a strong foundation in data analysis, business intelligence, and systems design, I am eager to apply my technical and analytical skills to solve real-world challenges. My goal is to build insights through data visualization, analysis, and strategic problem-solving to support organizational growth and innovation.
 
+Welcome to my GitHub portfolio! Here, I showcase projects, analyses, and experiences that highlight my passion for data analysis and continuous learning.
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>SQL</b>
